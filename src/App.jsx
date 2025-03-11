@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <>
-      <h3>Hi</h3>
+      <h3>Hi + Release v1.0</h3>
     </>
   )
 }
